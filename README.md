@@ -23,7 +23,6 @@ To get started with the Profile Management system, follow these steps:
 1. Clone the repository: `git clone https://github.com/vhoang1206/PROFILE-MANAGEMENT-with-Tree-DataStructure.git`
 2. Install the required dependencies: `npm install`
 3. Run the application: `npm start`
-4. Access the application in your web browser at `http://localhost:3000`
 
 ## Contributing
 
